@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##### Iowa State University
 * Major:  Data Science 
 * Graduation:  Bachelor of Science in Data Science, May 2022
+* Cumulative GPA: 3.56/4.0
 
 ### Technology Proficiencies
 R   *   RStudio  *  Python  *  Java  * Tableau  *  SAS  *  Excel
