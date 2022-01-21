@@ -11,4 +11,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Max Wisnieski
 
-I have no idea what I am doing here.
+### Education
+
+##### Iowa State University
+* Major:  Data Science 
+* Graduation:  Bachelor of Science in Data Science, May 2022
+
+### Technology Proficiencies
+R   *   RStudio  *  Python  *  Java  * Tableau  *  SAS  *  Excel
+
+### Work Experience
+
+##### LCS: Data Analyst
+*	Review and clean survey data
+*	Conduct statistical analysis using QuestionPro and RStudio
+* Prepare PowerPoint summary reports
+
+### Projects
+##### Car Price Predictions
+* The goal of this project was to look at a data set of used cars, and predict the price of a vehicle based on the important variables found during analysis. After cleaning, analyzing, and modeling the data, I was able to predict the value of a car with a fair amount of accuracy.
+
+
+![](C:\Users\maxwi\Pictures\proj.PNG)
